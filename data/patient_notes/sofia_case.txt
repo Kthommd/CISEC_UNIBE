@@ -1,0 +1,10 @@
+Datos generales: Sofía Hernández, mujer de 24 años.
+Motivo de consulta: dolor epigástrico quemante y náuseas.
+Antecedentes: gastritis crónica diagnosticada a los 18 años. Sin cirugías.
+Medicamentos: omeprazol 20 mg diarios.
+Hábitos: estudiante de medicina, vive en residencia universitaria, toma café 3 veces al día.
+Signos vitales: FC 92 lpm, PA 110/70 mmHg, FR 16 rpm, Temp 37.4°C.
+Examen físico: dolor a la palpación en epigastrio, sin rebote ni defensa.
+Laboratorio: hemograma normal, H. pylori pendiente.
+Imágenes: No se han realizado estudios de imagen.
+Narrativa: El dolor inicia después de comidas copiosas y mejora parcialmente con antiácidos.

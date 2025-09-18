@@ -1,0 +1,30 @@
+{
+  "cases": [
+    {
+      "id": "ifom-1",
+      "stem": "Un estudiante evalúa a un paciente con fiebre y tos productiva.",
+      "options": [
+        {"text": "Iniciar antibiótico empírico de amplio espectro", "is_correct": true},
+        {"text": "Solicitar PCR de influenza", "is_correct": false},
+        {"text": "Indicar reposo domiciliario sin estudios", "is_correct": false},
+        {"text": "Administrar broncodilatador de rescate", "is_correct": false},
+        {"text": "Referir a cirugía torácica inmediata", "is_correct": false}
+      ],
+      "explanation": "La fiebre con tos productiva sugiere neumonía adquirida en la comunidad.",
+      "tags": ["infectologia", "neumonia"]
+    },
+    {
+      "id": "ifom-2",
+      "stem": "Paciente con dolor abdominal súbito en fosa iliaca derecha.",
+      "options": [
+        {"text": "Solicitar TAC de abdomen con contraste", "is_correct": true},
+        {"text": "Indicar analgésico y reevaluar en 72h", "is_correct": false},
+        {"text": "Dar de alta sin estudios", "is_correct": false},
+        {"text": "Derivar a psiquiatría", "is_correct": false},
+        {"text": "Recomendar dieta líquida estricta", "is_correct": false}
+      ],
+      "explanation": "La TAC identifica causas quirúrgicas como apendicitis.",
+      "tags": ["cirugia", "abdomen"]
+    }
+  ]
+}
